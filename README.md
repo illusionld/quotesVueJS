@@ -1,6 +1,6 @@
-Monster Slayer
+Quotes App using VueJS
 
-> A simple app using VueJS
+> VueJS app using props and slots
 
 ## Build Setup
 
